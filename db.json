@@ -1,13 +1,45 @@
 {
-   "holds":{
-      "holds":[
-         {
-            "holD_DESC":"Must Update Application",
-            "holD_CODE":"08",
-            "holD_REASON":"No Show Summer 2021",
-            "holD_START_DATE":"2021-07-21T17:17:22",
-            "studenT_ID":"918010770"
-         }
-      ]
-   }
+  "holds": {
+    "holds": [
+      {
+        "holD_DESC": "Must Update Application",
+        "holD_CODE": "08",
+        "holD_REASON": "No Show Summer 2021",
+        "holD_START_DATE": "2021-07-21T17:17:22",
+        "studenT_ID": "918010770"
+      }
+    ]
+  },
+  "studentInfo": {
+    "student_Info": [
+      {
+        "sprideN_PIDM": 36009015,
+        "sprideN_ID": "918010770",
+        "sprideN_LAST_NAME": "Saylor",
+        "sprideN_FIRST_NAME": "Allen",
+        "sprideN_MI": "Chandler",
+        "sprideN_CHANGE_IND": null,
+        "sprideN_ENTITY_IND": "P",
+        "sprideN_ACTIVITY_DATE": "2017-07-01T17:44:07",
+        "sprideN_USER": "BANSECR",
+        "sprideN_ORIGIN": "SPAIDEN",
+        "sprideN_SEARCH_LAST_NAME": "SAYLOR",
+        "sprideN_SEARCH_FIRST_NAME": "ALLEN",
+        "sprideN_SEARCH_MI": "CHANDLER",
+        "sprideN_SOUNDEX_LAST_NAME": "S460",
+        "sprideN_SOUNDEX_FIRST_NAME": "A450",
+        "sprideN_NTYP_CODE": null,
+        "sprideN_CREATE_USER": "SATURN",
+        "sprideN_CREATE_DATE": "2005-06-14T18:43:23",
+        "sprideN_DATA_ORIGIN": "Banner",
+        "sprideN_CREATE_FDMN_CODE": null,
+        "sprideN_SURNAME_PREFIX": null,
+        "sprideN_SURROGATE_ID": 61747,
+        "sprideN_VERSION": 2,
+        "sprideN_USER_ID": null,
+        "sprideN_VPDI_CODE": null,
+        "sprideN_NAME_ERROR_CODE": null
+      }
+    ]
+  }
 }
